@@ -19,6 +19,8 @@ episode.
 
 ***IMPORTANT***: the VAR toolbox from [Ambrogio Cesa-Bianchi](https://github.com/ambropo/VAR-Toolbox) and the replication codes for "How to Estimate a VAR after March 2020" from [Michele Lenza & Giorgio Primiceri](https://faculty.wcas.northwestern.edu/gep575/research.html) are required to successfully run the code. 
 
+**Citation:** *Lenza, Michele & Primiceri, Giorgio E., 2020. "How to estimate a VAR after March 2020," Working Paper Series 2461, European Central Bank.*
+
 1. var_mle.m - the main script which is used to estimate the VAR and SVAR, as well as to compute historical decompositions. 
 
 2. VARhdLP.m - I have tweaked the VARhd.m script from Ambrogio Cesa-Bianchi's VAR toolbox to compute a historical decomposition of the estimated SVAR. 
