@@ -28,3 +28,7 @@ episode.
 2. VARhdLP.m - I have tweaked the VARhd.m script from Ambrogio Cesa-Bianchi's VAR toolbox to compute a historical decomposition of the estimated SVAR. 
 
 3. var_covid_mle.m - a MATLAB script from Lenza & Primiceri which constructs a function to estimate the COVID hyperparameters via maximum likelihood estimation. 
+
+**Example:**
+
+![Screenshot 2022-08-09 at 21 48 34](https://user-images.githubusercontent.com/53973798/183758351-01e78980-9ae5-4c0f-b210-4104d24d8db3.png)
