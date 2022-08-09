@@ -26,3 +26,5 @@ episode.
 1. var_mle.m - the main script which is used to estimate the VAR and SVAR, as well as to compute historical decompositions. 
 
 2. VARhdLP.m - I have tweaked the VARhd.m script from Ambrogio Cesa-Bianchi's VAR toolbox to compute a historical decomposition of the estimated SVAR. 
+
+3. var_covid_mle.m - a MATLAB script from Lenza & Primiceri which constructs a function to estimate the COVID hyperparameters via maximum likelihood estimation. 
